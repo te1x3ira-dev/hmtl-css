@@ -27,7 +27,7 @@ Course of HTML5 and CSS3 of CursoemVideo
 <a href="https://te1x3ira-dev.github.io/hmtl-css/exercicios/021/" style="color: #0000FF;"> Exercício 021 </a> <br>
 <a href="https://te1x3ira-dev.github.io/hmtl-css/exercicios/022/index.html" style="color: #0000FF;"> Exercício 022.1 </a> <br>
 <a href="https://te1x3ira-dev.github.io/hmtl-css/exercicios/022/link.html" style="color: #0000FF;"> Exercício 022.2 </a> <br>
-<a href="https://te1x3ira-dev.github.io/hmtl-css/exercicios/022/pseudoclass.html" style="color: #0000FF;"> Exercício 022.2 </a> <br>
+<a href="https://te1x3ira-dev.github.io/hmtl-css/exercicios/022/pseudoclass.html" style="color: #0000FF;"> Exercício 022.3 </a> <br>
 <a href="https://te1x3ira-dev.github.io/hmtl-css/exercicios/023/caixas01.html" style="color: #0000FF;"> Exercício 023.1 </a> <br>
 <a href="https://te1x3ira-dev.github.io/hmtl-css/exercicios/023/caixas02.html" style="color: #0000FF;"> Exercício 023.2 </a> <br>
 <a href="https://te1x3ira-dev.github.io/hmtl-css/exercicios/023/caixas03.html" style="color: #0000FF;"> Exercício 023.3 </a> <br>
